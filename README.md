@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Vedant-Talekar
+- Laungages Learning: Java (Standard Understanding), Pseudocode (Standard Understanding), CSS (Standard Understanding)
 - 👀 I’m interested in building games, watching tv shows (lucifer, the office...) and playing the guitar
 - 🌱 I’m currently learning computer science HL for the IB diploma
 - 💞️ I’m looking to collaborate on any projects invovling games
